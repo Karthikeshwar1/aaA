@@ -29,7 +29,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-so-simple # removed this, as it won't work on github pages
+remote_theme: "mmistakes/so-simple-theme@3.2.0" # this will work instead of the above
 plugins:
   - jekyll-feed
 
