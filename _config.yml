@@ -22,8 +22,8 @@ title: aaA
 # email: karthikeshwar7087@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   all about Abstract
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/aaa-low-resolution-color-logo.png"
 twitter_username: jekyllrb
 github_username:  jekyll
