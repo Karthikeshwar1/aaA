@@ -39,8 +39,8 @@ search_full_content: true
 # impacting page load performance. Setting search_full_content to false
 # (the default) restricts indexing to the first 50 words of body content.
 
-paginate: 10  # amount of posts to show per page
-paginate_path: /page:num/
+# paginate: 10  # amount of posts to show per page
+# paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
